@@ -1,23 +1,23 @@
 # basic
-title: 追客
-subtitle: You are the JavaScript in my HTML
+title: ocowchun
+subtitle: yoyoyo
 favicon: favicon.ico
 
 # avatar: images/avatar.png
 # banner_small: images/banner-small.png
 # banner_large: images/banner-large.png
-avatar: http://7xrcp8.com1.z0.glb.clouddn.com/avatar.png
+avatar: https://www.gravatar.com/avatar/a7da45a4a1667717721e9a81d66845ff
 banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
 banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
 
 # disqus
-disqus_shortname: drakeleung
+disqus_shortname: ocowchun
 
 # social
 social:
-  github: https://github.com/DrakeLeung
-  twitter: https://twitter.com/DrakeLeung
-  weibo: http://weibo.com/cha12chalyc
+  github: https://github.com/ocowchun
+  twitter: https://twitter.com/ocowchun
+  facebook: https://www.facebook.com/ocowchun
 
 # nav #
 nav:
