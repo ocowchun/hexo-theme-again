@@ -4,11 +4,9 @@ subtitle: yoyoyo
 favicon: favicon.ico
 
 # avatar: images/avatar.png
-# banner_small: images/banner-small.png
-# banner_large: images/banner-large.png
+banner_small: images/banner-small.png
+banner_large: images/banner-large.png
 avatar: https://www.gravatar.com/avatar/a7da45a4a1667717721e9a81d66845ff
-banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
-banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
 
 # disqus
 disqus_shortname: ocowchun
