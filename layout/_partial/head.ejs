@@ -5,6 +5,7 @@
   <title><% if (page.title){ %><%= page.title %> | <% } %><%= theme.title %></title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="shortcut icon" href="<%- url_for(theme.favicon) %>">
+  <% if(page.tags) {%><meta name="keyword" content="<%= page.tags.data.map(d => d.name) %>"><% }%>
+  <% if(page.description) {%><meta name="description" content="<%= page.description%>"><% }%>
   <%- css('css/app') %>
-  <!-- <link rel='stylesheet' href='http://fonts.useso.com/css?family=Source+Code+Pro'> -->
 </head>
